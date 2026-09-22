@@ -1,0 +1,22 @@
+# KiCad local/user files
+*.kicad_prl
+*.lck
+
+# KiCad backups/autosaves
+*-backups/
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+~*
+
+# KiCad recovery / restore backups
+_restore_backup_*/
+
+# VS Code/local history
+.history/
+
+# Misc
+*.tmp
+.DS_Store
+Thumbs.db
