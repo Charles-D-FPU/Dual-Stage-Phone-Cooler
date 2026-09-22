@@ -1,6 +1,6 @@
 # Dual-Stage Phone Cooler
 
-![3D PCB Render](images/PCB_3D_Angle.png.png)
+![3D PCB Render](images/PCB3D_Angle.png)
 
 ## Overview
 
@@ -48,7 +48,7 @@ Fan 1 and Fan 2 are active.
 
 ## 3D Model
 
-![PCB Render](images/PCB_3D_Top.png)
+![PCB Render](images/PCB3D_Top.png)
 
 ## Design Decisions
 
